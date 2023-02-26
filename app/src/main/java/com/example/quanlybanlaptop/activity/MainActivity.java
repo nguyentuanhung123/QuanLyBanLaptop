@@ -12,6 +12,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.ViewFlipper;
 
 import com.example.quanlybanlaptop.R;
@@ -32,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
     DrawerLayout drawerLayout;
     ArrayList<LoaiSP> mangloaisp;
     LoaiSPAdapter loaiSPAdapter;
+    TextView view;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
