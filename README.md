@@ -1,8 +1,9 @@
-<h1>_Quản lý bán laptop_</h1>
-> Nhóm 9:
-- Nguyễn Tuấn Hưng
-- Lê Thiên Khang
-- Tống Trung Đoàn
-- Vũ Trung Tuấn
-- Nguyễn Đình An Huy
-
+<h1>Quản lý bán laptop</h1>
+<p>Nhóm 9:</p>
+<ul>
+    <li> Nguyễn Tuấn Hưng </li>	
+    <li> Lê Thiên Khang </li>	
+    <li> Tống Trung Đoàn </li>	
+    <li> Vũ Trung Tuấn </li>	
+    <li> Nguyễn Đình An Huy </li>	
+</ul>
