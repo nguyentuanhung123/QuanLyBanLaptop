@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void ActionViewFlipper(){
         ArrayList<String> mangquangcao = new ArrayList<>();
-        mangquangcao.add("https://hanoicomputercdn.com/media/product/68069_laptop_dell_inspiron_3520_3.png");
+        mangquangcao.add("https://gocreview.vn/wp-content/uploads/2020/12/sua-tam-Purite.png");
         mangquangcao.add("https://cdn.ankhang.vn/media/product/20888_laptop_dell_latitude_3420_1.jpg");
         mangquangcao.add("https://images.fpt.shop/unsafe/filters:quality(5)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/Dell-Inspiron-N3510-2.jpg");
         mangquangcao.add("https://cdn-amz.woka.io/images/I/7150w5ZxZ9L.jpg");
